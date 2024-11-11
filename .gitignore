@@ -1,0 +1,11 @@
+/node_modules
+/public
+/build
+/dist
+/out
+/coverage
+/logs
+/tmp
+/tmp
+/.next
+/.env
